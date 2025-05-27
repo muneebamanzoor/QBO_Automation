@@ -1,0 +1,20 @@
+{
+  "name": "connectjunction-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.12"
+  },
+  "dependencies": {
+    "connectjunction-automation": "file:",
+    "dotenv": "^16.5.0",
+    "ts-node": "^10.9.2",
+    "xlsx": "^0.18.5"
+  }
+}
