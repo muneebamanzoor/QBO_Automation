@@ -1,0 +1,38 @@
+[
+    {
+        "ProductName": "ABC Product",
+        "SKU": "23",
+        "Category": "Employee Events",
+        "Class": "East",
+        "Quantity": "4",
+        "AsOfDate": "29/03/2024",
+        "ReorderPoint": "5",
+        "Description": "test desc",
+        "SalesPrice": "500",
+        "SalesTax": "CJA Test Tax",
+        "Cost": "300",
+        "PurchaseInfo": "Test Purchase info",
+        "PurchaseTax": "Cja",
+        "PreferredVendor": "Cass"
+    },
+
+
+    {
+        "ProductName": "ABC Product",
+        "SKU": "23",
+        "Category": "Employee Events",
+        "Class": "East",
+        "Quantity": "4",
+        "AsOfDate": "29/03/2024",
+        "ReorderPoint": "5",
+        "Description": "test desc",
+        "SalesPrice": "500",
+        "SalesTax": "CJA Test Tax",
+        "Cost": "300",
+        "PurchaseInfo": "Test Purchase info",
+        "PurchaseTax": "Cja",
+        "PreferredVendor": "Cass"
+    }
+
+]
+

@@ -1,0 +1,25 @@
+[
+    {
+        "ProductName": "Test Product 1",
+        "Description": "test description 2",
+        "SFProductCode":"382",
+        "SFProductFamily":"General Partner Membership"
+    },
+
+
+    {
+        "ProductName": "Test Product 2",
+        "Description": "test description 2",
+        "SFProductCode":"383",
+        "SFProductFamily":"General Partner Membership"
+    },
+
+    {
+        "ProductName": "Test Product 3",
+        "Description": "test description 3",
+        "SFProductCode":"384",
+        "SFProductFamily":"General Partner Membership"
+    }
+
+]
+
